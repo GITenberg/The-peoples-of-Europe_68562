@@ -1,0 +1,37 @@
+_repo: The-peoples-of-Europe_68562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fleure, H. J. (Herbert John)
+    alias: Fleure, Herbert John
+    birthdate: 1877
+    deathdate: 1969
+    gutenberg_agent_id: '54828'
+    url: http://www.gutenberg.org/2009/agents/54828
+    wikipedia: https://en.wikipedia.org/wiki/H._J._Fleure
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68562'
+  lccn: '22021264'
+language: en
+pgterms:marc905: 20220715165906fleure
+pgterms:marc906: '1922'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :Oxford University Press,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology -- Europe'
+- !lcc 'GN'
+- GITenberg
+tableOfContents: '''Races'' -- Language families: introductory -- The peoples of Romance
+  speech -- The peoples of German speech -- Some peoples intermediate between Romance
+  and Germanic in speech -- Peoples of Low German and Scandinavian speech -- The peoples
+  on the eastern border of Europe-of-the-Sea -- The Slav-speaking peoples and the
+  borders of the east -- Some phases of evolution of European life before the Industrial
+  Revolution -- Aspects of modern Europe.'
+title: The peoples of Europe
+url: http://www.gutenberg.org/ebooks/68562
