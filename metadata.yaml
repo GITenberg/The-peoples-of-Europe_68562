@@ -1,5 +1,8 @@
 _repo: The-peoples-of-Europe_68562
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68562-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Fleure, H. J. (Herbert John)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54828
     wikipedia: https://en.wikipedia.org/wiki/H._J._Fleure
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68562#The-peoples-of-Europe
 gutenberg_issued: '2022-07-18'
 identifiers:
   gutenberg: '68562'
